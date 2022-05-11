@@ -18,7 +18,7 @@ Estudando Front-end, Java, ReactJS e Springboot.
 
 #### Eu chegando na Internet em 1999...
 
-![Quando cheguei tudo era mato...](https://aws1.discourse-cdn.com/nubank/original/3X/d/e/de903ee032078463c339e27b2f34c9dd7e013de7.gif)
+![Quando cheguei tudo era mato...](https://github.com/fabeemiranda/fabeemiranda/blob/main/img/selva.gif)
 
 
 
