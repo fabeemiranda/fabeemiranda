@@ -27,5 +27,6 @@ Bootcamp Fullstack Developer
 
 **Meus links:**
 
-[LinkedIn](https://www.linkedin.com/in/fabeemiranda/) // [Instagram](https://www.instagram.com/dev_fabee/) // [CodePen](https://codepen.io/fabeemiranda) // [Currículo](http://fabeemiranda.github.io/meu-curriculo) // [Certificados](https://github.com/fabeemiranda/meu-curriculo/tree/main/Certificados)
+[![Certificados](https://github.com/fabeemiranda/fabeemiranda/blob/main/img/bot%C3%A3o_certificados.png)](https://github.com/fabeemiranda/meu-curriculo/tree/main/Certificados)
+
 
