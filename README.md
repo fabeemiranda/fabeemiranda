@@ -5,7 +5,8 @@
 Cursando Sistemas de Informação - UVA
 
 Bootcamp Fullstack Developer
-![(https://github.com/fabeemiranda/fabeemiranda/blob/main/img/logo_DIO.png)](https://bit.ly/3Q0DSmF)
+[![Logo DIO]([imageurl](https://github.com/fabeemiranda/fabeemiranda/blob/main/img/logo_DIO.png))]([linkurl](https://bit.ly/3Q0DSmF))
+
 
 **Coisas que amo:**
 
