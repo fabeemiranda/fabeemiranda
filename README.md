@@ -6,8 +6,6 @@ Estou cursando Sistemas de Informação na **Gran Faculdade**.
 
 Faço cursos e bootcamps na área de desenvolvimento web.
 
-No momento estou participando do [Bootcamp Fundamentos de IA para Devs](https://dio.me/sign-up?ref=PV5OGP59YH).
-
 ---
 :sparkling_heart: **Coisas que amo:**
 
